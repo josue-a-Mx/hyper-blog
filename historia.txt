@@ -4,4 +4,4 @@ Ahora tiene un poco más de texto.
 
 Esto es mucho texto.
 
-Ahora agregamos más
+Ahora agregamos más texto a este archivo.
