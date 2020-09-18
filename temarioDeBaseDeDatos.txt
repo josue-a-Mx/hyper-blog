@@ -1,0 +1,16 @@
+	--Temario De Fundamentos De base de Datos--
+1.- Bienvenida a conceptos basicos y contexto historico.
+
+2.- Introducción.
+
+3.- Instalacion de My SQL en los diferentes sistemas opertivos.
+
+4.- Historia de SQL y algunas utilidades.
+
+5.- Cosultas a una base de datos.
+
+6.- Introduccion de base de datos NO relacionadas.
+
+7.- Manejo de modelos de datos en base de datos no relacionales.
+
+8.- Base de datos en la vida real.
